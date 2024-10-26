@@ -1,1 +1,1 @@
-# lase-eccommerce-website
+# lase-ecommerce-website
